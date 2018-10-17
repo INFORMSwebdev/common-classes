@@ -1,0 +1,7 @@
+# ignore all subdirectories
+*/
+
+# not our code
+Array2XML.php
+PHPMailer.php
+recaptchalib.php
